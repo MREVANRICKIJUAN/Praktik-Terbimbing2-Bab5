@@ -1,0 +1,28 @@
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\bin\Debug\net10.0\Console Pertama.exe
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\bin\Debug\net10.0\Console Pertama.deps.json
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\bin\Debug\net10.0\Console Pertama.runtimeconfig.json
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\bin\Debug\net10.0\Console Pertama.dll
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\bin\Debug\net10.0\Console Pertama.pdb
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\obj\Debug\net10.0\Console Pertama.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\obj\Debug\net10.0\Console Pertama.AssemblyInfoInputs.cache
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\obj\Debug\net10.0\Console Pertama.AssemblyInfo.cs
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\obj\Debug\net10.0\Console Pertama.csproj.CoreCompileInputs.cache
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\obj\Debug\net10.0\Console Pertama.dll
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\obj\Debug\net10.0\refint\Console Pertama.dll
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\obj\Debug\net10.0\Console Pertama.pdb
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\obj\Debug\net10.0\Console Pertama.genruntimeconfig.cache
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M Revan R.J\Console Pertama\obj\Debug\net10.0\ref\Console Pertama.dll
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\bin\Debug\net10.0\Console Pertama.exe
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\bin\Debug\net10.0\Console Pertama.deps.json
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\bin\Debug\net10.0\Console Pertama.runtimeconfig.json
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\bin\Debug\net10.0\Console Pertama.dll
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\bin\Debug\net10.0\Console Pertama.pdb
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\obj\Debug\net10.0\Console Pertama.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\obj\Debug\net10.0\Console Pertama.AssemblyInfoInputs.cache
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\obj\Debug\net10.0\Console Pertama.AssemblyInfo.cs
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\obj\Debug\net10.0\Console Pertama.csproj.CoreCompileInputs.cache
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\obj\Debug\net10.0\Console Pertama.dll
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\obj\Debug\net10.0\refint\Console Pertama.dll
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\obj\Debug\net10.0\Console Pertama.pdb
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\obj\Debug\net10.0\Console Pertama.genruntimeconfig.cache
+D:\DPK-PPLG\SemesterGanjil\Bab-3\M. REVAN RICKI JUAN\Console Pertama\obj\Debug\net10.0\ref\Console Pertama.dll
