@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. REVAN RICKI JUAN\\Console Pertama\\Console Pertama.csproj": {}
+    "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. Revan Ricki Juan\\Console Pertama\\Console Pertama.csproj": {}
   },
   "projects": {
-    "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. REVAN RICKI JUAN\\Console Pertama\\Console Pertama.csproj": {
+    "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. Revan Ricki Juan\\Console Pertama\\Console Pertama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. REVAN RICKI JUAN\\Console Pertama\\Console Pertama.csproj",
+        "projectUniqueName": "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. Revan Ricki Juan\\Console Pertama\\Console Pertama.csproj",
         "projectName": "Console Pertama",
-        "projectPath": "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. REVAN RICKI JUAN\\Console Pertama\\Console Pertama.csproj",
+        "projectPath": "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. Revan Ricki Juan\\Console Pertama\\Console Pertama.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. REVAN RICKI JUAN\\Console Pertama\\obj\\",
+        "outputPath": "D:\\DPK-PPLG\\SemesterGanjil\\Bab-3\\M. Revan Ricki Juan\\Console Pertama\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
